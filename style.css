@@ -208,6 +208,12 @@ body{
     margin-top: 70px;
     z-index: 21;
 }
+.port2 img{
+    width: 90%;
+}
+.port2 img:hover {
+    width: 100%;
+}
 .title-text2{
     font-size: 55px;
     font-weight: 900;
