@@ -213,6 +213,7 @@ body{
 }
 .port2 img:hover {
     width: 100%;
+    transition: linear all 0.3s
 }
 .title-text2{
     font-size: 55px;
